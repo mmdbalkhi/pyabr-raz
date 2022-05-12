@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# public and private keys
+*.pem
+
+# raz files
+*.raz
